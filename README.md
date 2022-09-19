@@ -21,7 +21,7 @@ A collection of utilities for all kinds of websites!
 
 -Edit Pages
 
--General Multitool & In-tab Games
+-General Multitool & In-tab Games (Not Mine)
 
 
 # Creating a Bookmarklet:
