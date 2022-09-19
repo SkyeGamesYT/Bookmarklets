@@ -23,3 +23,5 @@ A collection of utilities for all kinds of websites!
 
 -General Multitool & In-tab Games
 
+
+# Creating a Bookmarklet:
