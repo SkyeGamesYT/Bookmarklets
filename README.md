@@ -23,6 +23,7 @@ A collection of utilities for all kinds of websites!
 
 -General Multitool & In-tab Games (Not Mine)
 
+-Prodigy Multitool (Not Mine)
 
 # Creating a Bookmarklet:
 
@@ -37,3 +38,8 @@ Step 4. If there was a 'javascript:' at the begginning of the code, then paste t
 Step 5. Rename the bookmark to whatever, then click save.
 
 Activation: when on the page the bookmark is for, click the bookmark. That's all!
+
+
+# Disclaimer
+
+I am NOT responsible for ANY loss/ban of account. Use at your own risk.
