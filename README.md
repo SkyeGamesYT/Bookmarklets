@@ -42,4 +42,4 @@ Activation: when on the page the bookmark is for, click the bookmark. That's all
 
 # Disclaimer
 
-I am NOT responsible for ANY loss/ban of account. Use at your own risk.
+I am NOT responsible for ANY loss/ban of account(s). Use at your own risk.
