@@ -5,6 +5,8 @@ A collection of utilities for all kinds of websites!
 
 # My Current Bookmarklets:
 
+-Autoclicker (Any page)
+
 -Blooket Multitool (Not Mine)
 
 -Inspect Menu (Not Mine)
