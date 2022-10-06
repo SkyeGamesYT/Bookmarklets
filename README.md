@@ -1,6 +1,9 @@
 # Bookmarklets
 A collection of utilities for all kinds of websites!
 
+# Notice:
+Please Inform me if any of my bookmarklets are Patched/Broken!
+My discord is Skye <3 #3571
 
 
 # My Current Bookmarklets:
