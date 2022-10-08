@@ -2,9 +2,9 @@
 A collection of utilities for all kinds of websites!
 
 # Notice:
-Please Inform me if any of my bookmarklets are Patched/Broken!
-My discord is Skye <3 #3571
+Please Inform me if any of my bookmarklets are Patched! 
 
+https://discord.gg/Ct2vdVU5H3
 
 # My Current Bookmarklets:
 
