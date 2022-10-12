@@ -6,6 +6,10 @@ Please Inform me if any of my bookmarklets are Patched!
 
 https://discord.gg/Ct2vdVU5H3
 
+# Proxys
+-School unblocked proxy!
+
+
 # My Current Bookmarklets:
 
 -Autoclicker (Any page)
