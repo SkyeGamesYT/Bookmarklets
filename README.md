@@ -4,7 +4,8 @@ A collection of utilities for all kinds of websites!
 # Notice:
 Please Inform me if any of my bookmarklets are Patched! 
 
-https://discord.gg/Ct2vdVU5H3
+https://discord.gg/Ct2vdVU5H3   <--- Make suggestions, or just join for fun!
+
 
 # Proxys
 -School unblocked proxy!
