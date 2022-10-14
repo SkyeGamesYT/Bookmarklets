@@ -1,1 +1,1 @@
-javascript:Game.RuinTheFun(1);
+javascript:Game.RuinTheFun(1)%3B
