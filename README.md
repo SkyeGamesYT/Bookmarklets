@@ -53,3 +53,5 @@ Activation: when on the page the bookmark is for, click the bookmark. That's all
 # Disclaimer
 
 I am NOT responsible for ANY loss/ban of account(s). Use at your own risk.
+
+![Screenshot 2022-10-17 8 31 05 AM](https://user-images.githubusercontent.com/113136719/196248839-d343af2b-5ec0-474a-a8cc-a69697fe40e6.png)
