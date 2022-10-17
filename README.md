@@ -8,32 +8,32 @@ https://discord.gg/Ct2vdVU5H3   <--- Make suggestions, or just join for fun!
 
 
 # Proxys
--School unblocked proxy!
+* School unblocked proxy!
 
 
 # My Current Bookmarklets:
 
--Autoclicker (Any page)
+* Autoclicker (Any page)
 
--Blooket Multitool (Not Mine)
+* Blooket Multitool (Not Mine)
 
--Inspect Menu (Not Mine)
+* Inspect Menu (Not Mine)
 
--Cookie Clicker Autoclicker
+* Cookie Clicker Autoclicker
 
--Cookie clicker Inf Cookies
+* Cookie clicker Inf Cookies
 
--Cookie clicker Inf Heavenly Chips
+* Cookie clicker Inf Heavenly Chips
 
--Cookie Clicker Beat game
+* Cookie Clicker Beat game
 
--Cookie clicker Inf Sugar Lumps
+* Cookie clicker Inf Sugar Lumps
 
--Edit Pages
+* Edit Pages
 
--General Multitool & In-tab Games (Not Mine)
+* General Multitool & In-tab Games (Not Mine)
 
--Prodigy Multitool (Not Mine)
+* Prodigy Multitool (Not Mine)
 
 # Creating a Bookmarklet:
 
