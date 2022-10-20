@@ -15,7 +15,7 @@ https://discord.gg/Ct2vdVU5H3   <--- Make suggestions, or just join for fun!
 
 * Autoclicker (Any page)
 
-* Blooket Multitool (Not Mine)
+* Blooket Multitool - Does not work on Monster Brawl gamemode
 
 * Inspect Menu (Not Mine)
 
