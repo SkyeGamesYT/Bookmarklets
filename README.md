@@ -8,7 +8,8 @@ https://discord.gg/Ct2vdVU5H3   <--- Make suggestions, or just join for fun!
 
 
 # Proxys
-* School unblocked proxy!
+* School unblocked proxy! (Shut Down)
+* Other School unblocked proxy.
 
 
 # My Current Bookmarklets:
