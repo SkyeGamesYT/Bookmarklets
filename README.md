@@ -18,6 +18,8 @@ https://discord.gg/Ct2vdVU5H3   <--- Make suggestions, or just join for fun!
 
 * Blooket Multitool - Does not work on Monster Brawl gamemode
 
+* Second Blooket Multitool (Not Mine, Works better than mine :/ )
+
 * Inspect Menu (Not Mine)
 
 * Cookie Clicker Autoclicker
