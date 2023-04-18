@@ -11,9 +11,9 @@ https://discord.gg/Ct2vdVU5H3   <--- Make suggestions, or just join for fun!
 * Titanium Network's Holy Unblocker
 
 # Clients
-*Blooket Client
+* Blooket Client
 
-*Kahoot Client
+* Kahoot Client
 
 # My Current Bookmarklets:
 
