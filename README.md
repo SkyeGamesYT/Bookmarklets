@@ -8,9 +8,12 @@ https://discord.gg/Ct2vdVU5H3   <--- Make suggestions, or just join for fun!
 
 
 # Proxys
-* School unblocked proxy.
-* Other School unblocked proxy.
-* My own proxy.
+* Titanium Network's Holy Unblocker
+
+# Clients
+*Blooket Client
+
+*Kahoot Client
 
 # My Current Bookmarklets:
 
