@@ -13,7 +13,6 @@ https://discord.gg/Ct2vdVU5H3   <--- Make suggestions, or just join for fun!
 # Clients
 * Blooket Client
 
-* Kahoot Client
 
 # My Current Bookmarklets:
 
