@@ -11,7 +11,9 @@ https://discord.gg/Ct2vdVU5H3   <--- Make suggestions, or just join for fun!
 * Titanium Network's Holy Unblocker
 
 # Clients
-* Blooket Client
+* Blooket Client (Minesraft2 -- All Credit)
+
+* Prodigy (ProdigyX -- All Credit)
 
 
 # My Current Bookmarklets:
