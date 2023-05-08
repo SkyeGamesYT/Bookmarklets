@@ -12,8 +12,10 @@ https://discord.gg/Ct2vdVU5H3   <--- Make suggestions, or just join for fun!
 
 # Clients
 * Blooket Client (Minesraft2 -- All Credit)
+https://github.com/Minesraft2/Blooket-Cheats
 
 * Prodigy (ProdigyX -- All Credit)
+https://github.com/ProdigyAPI/ProdigyXHack
 
 
 # My Current Bookmarklets:
