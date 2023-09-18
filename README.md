@@ -2,6 +2,7 @@
 A collection of utilities for all kinds of websites!
 
 # Notice:
+Bookmarklets do **not** work on the newest version of Google Chrome.
 Please Inform me if any of my bookmarklets are Patched! 
 
 https://discord.gg/Ct2vdVU5H3   <--- Make suggestions, or just join for fun!
