@@ -10,7 +10,7 @@ https://discord.gg/Ct2vdVU5H3   <--- Make suggestions, or just join for fun!
 
 # Proxys
 * Titanium Network's Holy Unblocker
-  https://holy-skyegamesyt.koyeb.app
+  https://holy-v2-skyegamesyt.koyeb.app
 
 # Clients
 * Blooket Client (Minesraft2 -- All Credit) -Discontinued-
