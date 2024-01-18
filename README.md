@@ -1,16 +1,14 @@
 # Bookmarklets
 A collection of utilities for all kinds of websites!
 
-# Notice:
-Bookmarklets do **not** work on the newest version of Google Chrome.
+# Notice
 Please Inform me if any of my bookmarklets are Patched! 
 
 https://discord.gg/Ct2vdVU5H3   <--- Make suggestions, or just join for fun!
 
 
 # Proxys
-* Titanium Network's Holy Unblocker
-  https://holy-v2-skyegamesyt.koyeb.app
+* Removed so I can focus on a better, self-hosted one
 
 # Clients
 * Blooket Client (Minesraft2 -- All Credit) -Discontinued-
