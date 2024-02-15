@@ -8,7 +8,7 @@ https://discord.gg/Ct2vdVU5H3   <--- Make suggestions, or just join for fun!
 
 
 # Proxys
-* LyonsPaid - https://lyonspaid-skyegamesyt.koyeb.app
+* Interstellar - https://lions-skyegamesyt.koyeb.app
 
 # Clients
 * Blooket Client (Minesraft2 -- All Credit) -Discontinued-
